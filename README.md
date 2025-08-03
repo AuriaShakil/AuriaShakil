@@ -78,8 +78,9 @@ I was first introduced to consulting during my apprenticeship in management cons
 
 ## 📫 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/auria-shakil/)  
-📧 [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=shakilauria@gmail.com)  
-📂 [GitHub Projects](https://github.com/AuriaShakil)  
+📧 [Email Me (Personal)](mailto:shakilauria@gmail.com)  
+📧 [Email Me (UIC)](mailto:ashak5@uic.edu)  
+📂 [GitHub Projects](https://github.com/AuriaShakil)   
 
 
 ⭐ *I’m passionate about turning data into strategy — let’s connect and create something impactful*  
