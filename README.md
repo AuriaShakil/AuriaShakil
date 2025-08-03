@@ -6,7 +6,7 @@ I’m currently pursuing a **B.S. in Information and Decision Sciences** at the 
 ## 🌟 My Journey  
 I was raised in Karachi, Pakistan in a low-income family. My father, inspired by my grandfather’s passion for architecture, started a small construction business in 2009. Despite his hard work, he faced cash flow issues, profitability challenges, and high costs, and eventually had to shut it down after a few years. Business-oriented decision-making ran deep in my family — my uncles in the USA owned 7-Eleven stores and a Baskin Robbins franchise, but they too faced tough decisions and closed their businesses. Witnessing these challenges sparked my fascination with decision-making.  
 
-I was first introduced to consulting during my apprenticeship in management consulting at Aon. This experience showed me how research and data analysis can guide organizations through complex problems. It also solidified my decision to pursue a degree in Information and Decision Sciences. Today, finding answers for businesses through research and telling stories with data has become a passion set in stone for me.  
+I was first introduced to consulting during my apprenticeship in management consulting at Aon. This experience showed me how research and data analysis can guide organizations through complex problems. It also inspired me to pursue a degree in Information and Decision Sciences. Today, helping organizations through research and telling stories with data has become one of my strongest drives.
 
 ## 🚀 About Me  
 - 📍 Based in **Chicago, IL**  
